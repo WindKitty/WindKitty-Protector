@@ -16,6 +16,16 @@ WindKitty Protector is a PowerShell-based PC protector script designed to fortif
 - **NoMoreCookies Installation:** Optional installation to protect against rats and grabbers.
 - **Kills Any DISCORD BASED GRABBER!**
 
+### How to run:
+
+1. Download this repository as a zip file.
+2. Extract 'WindKittyProtector' into your 'Downloads' folder (ensure it is not in a zip file, but only a folder).
+3. Open Command Prompt (`cmd`) and navigate to the folder using the `cd` command followed by the path to the folder with the PowerShell file.
+4. Execute the following command: `Powershell -File .\Protector.ps1` after navigating to the correct folder.
+
+- If you need help contact me ❤️ 
+
+
 ## Credits
 - [AdvDebug](https://github.com/AdvDebug/NoMoreCookies)
 - [Kdot227](https://github.com/ChildrenOfYahweh/Powershell-Token-Grabber)
